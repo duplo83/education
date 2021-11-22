@@ -406,4 +406,4 @@ Destroy complete! Resources: 2 destroyed.
 
 ## Next Steps
 
-You have successfully installed Terraform and provisioned your first resource. You are now ready to [create real infrastructure](https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started). You can also learn more about Terraform at [learn.hashicorp.com](https://learn.hashicorp.com/terraform)
+You have successfully installed Terraform and provisioned your first resource! You are now ready to [create real infrastructure](https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started). You can also learn more about Terraform at [learn.hashicorp.com](https://learn.hashicorp.com/terraform)
